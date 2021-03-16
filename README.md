@@ -1,5 +1,3 @@
-### Hi there 👋
-
 |Base Info|Dashboard Data|
 |----------------------------------------------------------------------|----------------------------------------------------------------------|
 | __Hi, I am ViktorWong! 👋__<br/><br/>1. 🔭 I’m currently working on NanChang, China.<br/>2. 🌱 🌱 I’m currently learning Koa, MySql, Java.<br/>3. 📫 How to reach me: victor318x@gmail.com<br/>4. my blog：https://www.itdongdong.com <br/> | [![ViktorWong's github stats](https://github-readme-stats.vercel.app/api?username=ViktorWong&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) |
